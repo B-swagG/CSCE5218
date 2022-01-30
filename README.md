@@ -1,2 +1,2 @@
-# myname
-UNT CSCE 5218 HW1
+# CSCE 5218
+UNT CSCE 5218 file repository
